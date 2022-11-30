@@ -1,0 +1,222 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+header:
+  # Profile information
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  email: email@rinuvarghese.com
+  phone: +91 88888 40944
+  website: https://www.rinuvarghese.com
+  website1: https://an.indianitguy.com
+  linkedin: rinuvarghese
+  github: Rinu-Varghese
+  gitlab:
+  bitbucket: 
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars: 
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+languages:
+  - idiom: English
+    level: Professional
+  - idiom: Hindi
+    level: Professional
+  - idiom: Malayalam
+    level: Native
+
+interests:
+  - name: Motorcycles
+    link: https://an.indianitguy.com
+  - name: Movies
+    link:
+  - name: Cooking
+    link:
+
+summary: |
+  Cloud DevOps Engineer with ten years experience in Information Technology, proficient in IaC and other related tools ready to work anywhere in the world for 
+  an organization that provides growth opportunities
+
+education:
+  # - degree: MSc in Computer Science
+  #   university: University of London
+  #   time: 2011 - 2012
+  #   details: |
+  #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #     pretium quis, sem.
+  #       - Bullet point
+  #       - Bullet point
+  - degree: Bachelor's degree, Computer Application
+    university: <a href="https://www.sienacollege.co.in/" title="Siena College">Siena College of professional studies</a>
+    time: 2009 - 2012
+    # details: |
+    # Bachelor of Computer Applications is the full form of BCA which is an undergraduate course 
+    #   made for the students who have passed their 12th from the science stream mainly. The course is 
+    #   structured around the areas of computer applications and technology that go into the advanced 
+    #   study of computer science.
+
+experiences:
+  - role: Lead Developer
+    time: 2018 - Present
+    company: Startup Hub
+    details: |
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
+      Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+      Donec pede justo, fringilla vel.
+        - Bullet point
+        - Bullet point
+    achievements:
+      desc: |
+        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
+        molestias excepturi sint occaecati cupiditate non provident.
+      highlights:
+        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
+        - At vero eos et accusamus et iusto odio dignissimos.
+        - Blanditiis praesentium voluptatum deleniti atque corrupti.
+        - Maecenas tempus tellus eget.
+    technologies:
+      - Angular
+      - Python
+      - jQuery
+      - Webpack
+      - HTML/SASS
+      - PostgresSQL
+
+  - role: Senior IT Consultant
+    time: Aug 2016 - Apr 2018
+    company: <a href="https://www.allstateindia.com/" title="Allstate India" target="_blank" rel="noopener noreferrer">Allstate India</a>
+    details: |
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
+      Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
+    achievements:
+      desc: |
+        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+    technologies:
+      - Powershell
+      - Octopus
+      - Jenkins
+      - Internet Information Services (IIS)
+      - ITIL
+      - ServiceNow
+      - SSL Certificate management
+      - Oracle SQL
+      - Kerberos
+
+  - role: Code release Administrator.
+    time: Jul 2015 - Aug 2016
+    company: <a href="https://en.wikipedia.org/wiki/Buck_(human_resources_consulting_company)" title="Buck Consultants" target="_blank" rel="noopener noreferrer">Buck Consultants</a> | Xerox
+    details: |
+      As a Code release administrator, my role was to administer deployments to various portals
+      hosted by Buck Consultants for the clients and maintaining high availability
+
+      While my tenure with the team, Buck Consultants were branded as a subsidiary of Xerox after they acquired it in 2010
+
+      Roles and responsibilities:
+      - Code deployment
+      - Functional testing
+      - Agile
+      - Sprint Lead
+
+    technologies:
+      - Internet Information Services (IIS)
+      - Apache Tomcat
+      - Powershell
+      - Batch Scripting
+
+  - role: Systems Engineer
+    subrole: 
+    time: Jun 2012 - Jun 2015
+    company: <a href="https://atos.net/en/india" title="Atos" target="_blank" rel="noopener noreferrer">Atos</a> | <a href="https://www.linkedin.com/company/atos-syntel" title="Syntel" target="_blank" rel="noopener noreferrer">Syntel</a>
+    details: |
+      Worked as Internet Information Service administrator for three years at (then) Syntel Inc.
+      Syntel is now a subsidiary of Atos and a multinational provider of integrated technology and business services.
+      Atos Syntel was created by the acquisition of Syntel, Inc. by Atos S.E.
+      
+      Roles and responsibilities:
+      - Responsible for configuring the infrastructure and installing applications on Windows IIS
+      - Working with application teams examining deployment requirements
+      - Reviewing application installation documentation.
+      - Executing the installation.
+      - Automating the installation process.
+      - Ensuring that the installation is done per standards and best practices.
+    achievements:
+      desc: |
+        <i>Syntel | Star of the Month</i><br>
+        For achievements in the organization on various occasions.
+    technologies:
+      - Internet Information Services (IIS)
+      - Powershell 
+      - SSL Certificate management
+      - Disaster Recovery (HA)
+      - ITIL
+      - Oracle SQL
+      - Kerberos
+      - ServiceNow
+
+awards:
+  - name:
+    description: <a href="https://badgecert.com/bc/html/groupbadges.html?k=d29VaXNvaWpXRVZrM3pveWVLZ3BoQT09" target="_blank" rel="noopener noreferrer"><img src="https://bcert.me/bc/html/img/badges/generated/badge-7236.png" alt="Rinuvarghese - A-CSM" width="150" height="150"></a>
+  - name:
+    description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b25632ce-268d-4712-b0dd-cf1743008d70" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  - name:
+    description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c8576a2-9fe4-4d08-9471-09318e2b79d7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  - name:
+    description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4e67dd7-203e-42cf-b725-25a7cdc47152" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  - name: Allstate | Highest of High Fives 
+    description: |
+      Awarded for receiving the highest appreciation points in the entire organization for the years 2018 and 2019
+
+skills:
+  - category: Cloud
+    tools:
+      - name: Azure
+        level: 98%
+      - name: AWS
+        level: 60%
+  - category: IaC
+    tools:
+      - name: Terraform
+        level: 98%
+      - name: AzureRM Templates
+        level: 98%
+  - category: Configuration Management
+    tools:
+      - name: Jenkins/Groovy
+        level: 95%
+      - name: Octopus
+        level: 90%
+      - name: Powershell DSC
+        level: 70%
+      - name: Ansible
+        level: 70%
+
+  - category: Scripting
+    tools:
+      - name: Powershell
+        level: 95%
+      - name: Python/boto3
+        level: 70%
+      - name: Shell
+        level: 75%
+
+
+  - category: others
+    tools:
+      - DevOps
+      - Code Review
+      - Git
+      - Unit Testing
+      - Wireframing
+      - Sketch
+      - Balsamiq
+      - WordPress
+      - Shopify
