@@ -8,7 +8,7 @@ header:
   email: email@rinuvarghese.com
   phone: +91 88888 40944
   website: https://www.rinuvarghese.com
-  website1: https://an.indianitguy.com
+  # website1: https://an.indianitguy.com
   linkedin: rinuvarghese
   github: Rinu-Varghese
   gitlab:
@@ -35,8 +35,16 @@ interests:
     link:
 
 summary: |
-  Cloud DevOps Engineer with ten years experience in Information Technology, proficient in IaC and other related tools ready to work anywhere in the world for 
-  an organization that provides growth opportunities
+  Microsoft Certified Azure Solutions Architect with ten years of experience in Information Technology, 
+  proficient in Infrastructure as Code and related tools ready to work anywhere in the world for 
+  an organization that provides growth opportunities<br><br>
+    <b>Key Pointers</b><br>
+      - Extensive experience in Azure and AWS<br>
+      - Well versed in Agile, ITIL, DevOps and CICD Methodologies<br>
+      - Self-driven in Designing, Solutioning, Testing and Implementing Cloud Solutions<br>
+      - Prolonged experience in lead role managing multiple teams<br>
+      - Keen interest in uplifting legacy technology by reverse engineering and integrating with current technologies as possible<br>
+      - Design and Documentation of the same at its best
 
 education:
   # - degree: MSc in Computer Science
@@ -50,8 +58,8 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point
-  - degree: Bachelor's degree, Computer Application
-    university: <a href="https://www.sienacollege.co.in/" title="Siena College">Siena College of professional studies</a>
+  - degree: Bachelor's degree in Computer Application
+    university: <a href="https://www.sienacollege.co.in/" title="Siena College" target="_blank" rel="noopener noreferrer">Siena College of professional studies</a>
     time: 2009 - 2012
     # details: |
     # Bachelor of Computer Applications is the full form of BCA which is an undergraduate course 
@@ -60,50 +68,104 @@ education:
     #   study of computer science.
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - role: Associate Principal Consultant
+    time: Apr 2022 - Present
+    company: <a href="https://www.allstateindia.com/" title="Allstate India" target="_blank" rel="noopener noreferrer">Allstate India</a>
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-      Donec pede justo, fringilla vel.
-        - Bullet point
-        - Bullet point
+      As Associate Principal Consultant for the Azure Cloud Infrastructure team, my role was 
+       designing and implementing various infrastructure solutions such as
+        - DNS Forwarding among Subscriptions and OnPrem using OpenSource BIND servers
+        - Create and Update Terraform Modules hosted in Terraform enterprise Registry
+        - Mandate Terraform Modules and through that implement controls on resource deployment
+        - Implement various Azure Governance measures via Policies and Management locks
+        - Integrate Detective Control with Rapid7 Insight CloudSec Tool
+        - Implement Azure Monitor, Alerts and Integrate with OnPrem Alerting system
+        - Integrate Application logging with DatDog for Application Monitoring
+        - Migrate DNS solution to Azure Native Private DNS Resolver
+        - Terraform OpenSource (share Backend) to Terraform Enterprise workspace migration of resources and state file
+    
+    technologies:
+      - AWS
+      - Azure
+      - Splunk
+      - Terraform
+      - Hashicorp Vault
+      - Shell
+      - Ansible
+      - Agile
+      - VersionOne
+
+  - role: Senior Lead Technical Consultant
+    time: Apr 2020 - Apr 2022
+    company: <a href="https://www.allstateindia.com/" title="Allstate India" target="_blank" rel="noopener noreferrer">Allstate India</a>
+    details: |
+      As a Senior Lead Consultant in Allstate, I got an opportunity to switch technology to AWS and Azure Cloud 
+      where I and my team was responsible for developing and maintaining the Splunk environment via IaC<br>
+      Key responsibilities included
+      - Developing Immutable infrastructure code for Splunk deployment in the cloud
+      - Deploying and maintaining Splunk Clusters in various AWS Accounts and Azure Subscriptions
+      - Equipping Splunk to input various logs from AWS/Azure cloud endpoints and store them for analysis and compliance
+      - Working closely with Splunk Support (Vendor) to keep the infrastructure up-to-date and efficient
+    
     achievements:
       desc: |
-        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
-        molestias excepturi sint occaecati cupiditate non provident.
-      highlights:
-        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
-        - At vero eos et accusamus et iusto odio dignissimos.
-        - Blanditiis praesentium voluptatum deleniti atque corrupti.
-        - Maecenas tempus tellus eget.
+        - <b>Setup Immutable Splunk Infrastructure</b><br>
+          With the help of my team, we were able to set up automation in place for Splunk immutable infrastructure involving usages of Terraform, 
+          AWS AutoScalling Group, AWS Launch Template, Shell Scripting, Hashicorp Vault, Ansible and Splunk Smart Store in AWS S3<br>
     technologies:
-      - Angular
-      - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
+      - AWS
+      - Azure
+      - Splunk
+      - Terraform
+      - Hashicorp Vault
+      - Shell
+      - Ansible
+      - Agile
+      - VersionOne
+
+  - role: Lead Technical Consultant
+    time: Apr 2018 - Apr 2020
+    company: <a href="https://www.allstateindia.com/" title="Allstate India" target="_blank" rel="noopener noreferrer">Allstate India</a>
+    details: |
+      With the new Lead role in Allstate, my new aim was to convert Application deployments into Continuous Integration
+       and Continuous Deployment mode and hand control back to Application Developers for faster development.
+      - Collaborated with Developers and Build-team to standardize and automate the build and versioning system in Jenkins
+      - Implemented common, reusable Octopus Deployment steps in Octopus for IIS Hosted Applications
+      - Migrated Applications from a standard manual process to the CI-CD method using Jenkins and Octopus
+    
+    achievements:
+      desc: |
+        - <b><a href="https://www.allstateindia.com/life-at-allstate/recognition.aspx" title="Allstate India" target="_blank" rel="noopener noreferrer">Allstate | Highest of High Fives</a></b><br>
+          Awarded for receiving the highest appreciation points in the entire organization for the years 2018 and 2019
+    technologies:
+      - Octopus
+      - Jenkins
+      - Powershell
+      - Internet Information Services (IIS)
+      - ServiceNow
+      - ITIL
 
   - role: Senior IT Consultant
     time: Aug 2016 - Apr 2018
     company: <a href="https://www.allstateindia.com/" title="Allstate India" target="_blank" rel="noopener noreferrer">Allstate India</a>
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
+      Allstate is the second biggest Insurance Company in The United States. 
+      Known for their motto "You're in Good Hands".<br>
+      Allstate India is a subsidiary of the Company taking care of Technical and business operations for 
+      the firm from India. 
+      
+      At Allstate India, the challenge was to transition the workload from vendor teams and form a new in-house team
+       to merge and standardize application deployment methodology
+      - Transitioned application deployment knowledge and documented the same from various vendor teams of Allstate
+      - Implemented strong ITIL practices enabling standardization of work intake
+      - Created Automation tools for standardized deployments
+      - Merged workload from 20+ teams to 15-member in-house team
     achievements:
       desc: |
-        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - <b>Successfull Transition with Merger in 6 months</b><br>
+        Transitioned workload from 20+ Vendor teams and merged the same into a 15-member team in less than 6 months<br><br>
     technologies:
       - Powershell
-      - Octopus
-      - Jenkins
       - Internet Information Services (IIS)
       - ITIL
       - ServiceNow
@@ -133,7 +195,7 @@ experiences:
       - Batch Scripting
 
   - role: Systems Engineer
-    subrole: 
+    subrole:
     time: Jun 2012 - Jun 2015
     company: <a href="https://atos.net/en/india" title="Atos" target="_blank" rel="noopener noreferrer">Atos</a> | <a href="https://www.linkedin.com/company/atos-syntel" title="Syntel" target="_blank" rel="noopener noreferrer">Syntel</a>
     details: |
@@ -169,8 +231,8 @@ awards:
     description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b25632ce-268d-4712-b0dd-cf1743008d70" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   - name:
     description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c8576a2-9fe4-4d08-9471-09318e2b79d7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  - name:
-    description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4e67dd7-203e-42cf-b725-25a7cdc47152" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  # - name:
+  #   description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4e67dd7-203e-42cf-b725-25a7cdc47152" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   - name: Allstate | Highest of High Fives 
     description: |
       Awarded for receiving the highest appreciation points in the entire organization for the years 2018 and 2019
@@ -211,12 +273,11 @@ skills:
 
   - category: others
     tools:
-      - DevOps
-      - Code Review
-      - Git
-      - Unit Testing
-      - Wireframing
-      - Sketch
-      - Balsamiq
-      - WordPress
-      - Shopify
+      - GitHub
+      - Postman (API)
+      - Confluence (Docs)
+      - Hashicorp Vault (Secrets)
+      - DNS
+      - Splunk
+      - DatDog
+      - Insight CloudSec
