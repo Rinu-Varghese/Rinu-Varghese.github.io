@@ -227,9 +227,9 @@ experiences:
 awards:
   - name:
     description: <a href="https://badgecert.com/bc/html/groupbadges.html?k=d29VaXNvaWpXRVZrM3pveWVLZ3BoQT09" target="_blank" rel="noopener noreferrer"><img src="https://bcert.me/bc/html/img/badges/generated/badge-7236.png" alt="Rinuvarghese - A-CSM" width="150" height="150"></a>
-  - name:
+#  - name:
     description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b25632ce-268d-4712-b0dd-cf1743008d70" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  - name:
+#  - name:
     description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c8576a2-9fe4-4d08-9471-09318e2b79d7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   # - name:
   #   description: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4e67dd7-203e-42cf-b725-25a7cdc47152" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
