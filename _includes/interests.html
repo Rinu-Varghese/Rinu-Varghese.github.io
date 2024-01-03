@@ -5,10 +5,10 @@
     <div class="resume-section-content">
         <ul class="list-unstyled">
             {% for interest in interests %}
-            <li class="mb-1">{{ interest.name }}</li>
+            <li class="mb-1"><a href="{{ interest.link }}">{{ interest.name }}</a></li>
             {% endfor %}
         </ul>
     </div>
 </section>
-<!--//interests-section-->
+<!-- //interests-section -->
 {% endif %}

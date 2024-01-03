@@ -4,7 +4,7 @@
 
 header:
   # Profile information
-  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: ai-profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: email@rinuvarghese.com
   phone: +91 88888 40944
   website: https://www.rinuvarghese.com
@@ -37,10 +37,10 @@ interests:
 summary: |
   Microsoft Certified Azure Solutions Architect with ten years of experience in Information Technology, 
   proficient in Infrastructure as Code and related tools ready to work anywhere in the world for 
-  an organization that provides growth opportunities<br><br>
+  an organization that provides growth opportunities.<br><br>
     <b>Key Pointers</b><br>
       - Extensive experience in Azure and AWS<br>
-      - Well versed in Agile, ITIL, DevOps and CICD Methodologies<br>
+      - Well-versed in Agile, ITIL, DevOps and CICD Methodologies<br>
       - Self-driven in Designing, Solutioning, Testing and Implementing Cloud Solutions<br>
       - Prolonged experience in lead role managing multiple teams<br>
       - Keen interest in uplifting legacy technology by reverse engineering and integrating with current technologies as possible<br>
