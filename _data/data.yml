@@ -4,7 +4,7 @@
 
 header:
   # Profile information
-  avatar: ai-profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: email@rinuvarghese.com
   phone: +91 88888 40944
   website: https://www.rinuvarghese.com
